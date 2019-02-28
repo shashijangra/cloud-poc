@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "api-test": "newman run MergeAPI.postman_collection.json --reporters cli,junit --reporter-junit-export newman.xml -r html"
+    "api-test": "newman run MergeAPI.postman_collection.json --reporters cli,junit --reporter-junit-export newman.xml"
   },
   "author": "Ninja",
   "license": "ISC",
   "dependencies": {
-    "newman": "^4.4.0",
-    "newman-reporter-html": "^1.0.2"
+    "newman": "^4.4.0"
   }
 }
