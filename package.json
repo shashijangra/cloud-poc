@@ -8,6 +8,7 @@
   "author": "Ninja",
   "license": "ISC",
   "dependencies": {
-    "newman": "^4.4.0"
+    "newman": "^4.4.0",
+    "newman-reporter-html": "^1.0.2"
   }
 }
