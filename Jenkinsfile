@@ -74,10 +74,10 @@ def notifyBuild(String buildStatus = 'STARTED') {
 	}
 
 	// Send notifications
-        slackSend baseUrl: 'https://hooks.slack.com/services/',
+        /*slackSend baseUrl: 'https://hooks.slack.com/services/',
 		  channel: 'jenkins-slack',
 		  color: colorCode,
 		  message: summary,
 		  teamDomain: 'NinjaDevOps',
 		  tokenCredentialId: 'slack-id'
-}
+} */
