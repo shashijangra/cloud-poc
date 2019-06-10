@@ -79,5 +79,5 @@ def notifyBuild(String buildStatus = 'STARTED') {
 		  color: colorCode,
 		  message: summary,
 		  teamDomain: 'NinjaDevOps',
-		  tokenCredentialId: 'slack-id'
-} */
+		  tokenCredentialId: 'slack-id' */
+}
