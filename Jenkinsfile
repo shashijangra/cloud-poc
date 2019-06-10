@@ -28,7 +28,7 @@ node {
             } catch (Exception ex){
                         currentBuild.result = 'FAILURE'
                     }
-           junit 'newman.xml'
+        /*   junit 'newman.xml' */
         }	    
 }
     catch (e) {
