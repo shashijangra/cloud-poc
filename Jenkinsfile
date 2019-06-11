@@ -1,4 +1,4 @@
-node('ubuntu-aws') {
+node('azure-vm') {
        def app
     try {
     
