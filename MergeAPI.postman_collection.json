@@ -92,12 +92,12 @@
 					"raw": "{\n    \"f1\": \"FILEPAY.TXT\",\n    \"f2\": \"FILEPAY1.TXT\",\n    \"merge\": \"FILEMPAY.TXT\"\n}"
 				},
 				"url": {
-					"raw": "13.70.48.46:8090/v1/runcobol",
+					"raw": "13.70.21.3:8090/v1/runcobol",
 					"host": [
 						"13",
 						"70",
-						"48",
-						"46"
+						"21",
+						"3"
 					],
 					"port": "8090",
 					"path": [
